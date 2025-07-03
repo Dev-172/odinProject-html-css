@@ -107,7 +107,7 @@ main {
   flex-direction: column;
   align-items: center;
   margin-top: 50px;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 .second-section-title {
@@ -141,4 +141,28 @@ main {
   height: 165px;
   border-radius: 20px;
   border: 5px solid #3882f6;
+}
+
+.third-section {
+  background-color: #e5e7eb;
+}
+
+.quote-section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.section-quote {
+  padding: 0 9rem;
+  font-size: 2.25rem;
+  font-style: italic;
+  font-weight: 300;
+  color: #1f2937;
+}
+
+.section-quote-author {
+  display: flex;
+  justify-content: end;
+  padding: 0 9rem;
+  font-weight: bold;
 }
