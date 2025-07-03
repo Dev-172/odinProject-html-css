@@ -166,3 +166,41 @@ main {
   padding: 0 9rem;
   font-weight: bold;
 }
+
+.fourth-section {
+  background-color: #3882f6;
+  border-radius: 10px;
+  padding: 4rem 9rem;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: flex;
+  color: white;
+}
+
+.fourth-section .btn {
+  border: 2px solid white;
+}
+
+.fourth-section-content {
+  width: 80%;
+}
+
+.fourth-section-content p {
+  margin-top: 5px;
+}
+
+.fourth-section-btn {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  color: #f9faf8;
+  height: 4rem;
+}
